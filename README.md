@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
- <img src="https://i.pinimg.com/originals/ea/9f/e2/ea9fe22ede2464b8aab30a4028a796a9.gif" width="200px"> <h1><strong><font color="#pimk"> ✧. ┊🌸 <i>Perfil de Myllena </font></strong></h1>
+ <img src="https://i.pinimg.com/originals/ea/9f/e2/ea9fe22ede2464b8aab30a4028a796a9.gif" width="200px"> <h1><strong><font color="#pimk"> ✧. ┊ <i>Perfil de Myllena </font></strong></h1>
 </div>
 
 
